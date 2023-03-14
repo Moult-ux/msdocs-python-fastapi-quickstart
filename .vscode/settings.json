@@ -1,5 +1,5 @@
 {
-    "cSpell.words": [
-        "myapp"
-    ]
+  "cSpell.words": ["myapp"],
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/7f97e3b0-5435-4638-bc8c-76848e3cde03/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/testAzurePythonApi",
+  "appService.deploySubpath": "."
 }
